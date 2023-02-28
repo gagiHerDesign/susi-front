@@ -1,0 +1,1 @@
+#cart{padding-top:5rem}#cart .fontW5{font-weight:1000}#cart .count{display:flex;flex-direction:row;align-items:center;margin:auto}#cart .count .remove{width:5%;background:#6a6a6a;color:#fff;margin:0;border:none}#cart .count .num{width:20%;margin:0 1vw;padding:0}#cart .count .add{width:5%;background:#6a6a6a;color:#fff;margin:0;border:none}#cartTotal{margin-left:5vw;padding:2rem}
