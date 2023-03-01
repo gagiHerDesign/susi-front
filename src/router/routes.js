@@ -82,26 +82,6 @@ const routes = [
           login: true,
           admin: false
         }
-      },
-      {
-        path: '/test',
-        name: 'test',
-        component: () => import('src/pages/front/TestPage.vue'),
-        meta: {
-          title: 'SUSI | test',
-          login: false,
-          admin: false
-        }
-      },
-      {
-        path: '/55',
-        name: '55',
-        component: () => import('src/pages/front/TTPage.vue'),
-        meta: {
-          title: 'SUSI | 55',
-          login: false,
-          admin: false
-        }
       }
 
     ]
