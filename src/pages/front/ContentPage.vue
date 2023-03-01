@@ -15,9 +15,9 @@
           <div class="text-orange-9">
             {{ product.category }}
           </div>
-          <h2 style="font-weight:500 ;">
+          <h4 style="font-weight:500 ;">
             {{ product.name }}
-          </h2>
+          </h4>
           <div style="font-weight: 200;">
             {{ product.description }}
           </div>
