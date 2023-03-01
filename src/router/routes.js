@@ -59,7 +59,7 @@ const routes = [
         component: () => import('src/pages/front/TreePage.vue'),
         meta: {
           title: 'SUSI | 茶樹總覽',
-          login: true,
+          login: false,
           admin: false
         }
       },
