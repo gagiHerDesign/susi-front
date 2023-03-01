@@ -9,7 +9,7 @@
 
       <q-card-section>
         <div class="text-overline text-orange-9">{{ category }}</div>
-        <div class="text-primary text-h5 q-mt-sm q-mb-xs">{{ name }}</div>
+        <div class="text-primary q-mt-sm q-mb-xs" style="font-size: calc(12px + 0.5vw);font-weight: 600;">{{ name }}</div>
         <div class="text-primary" style="font-weight: 100;">
           {{ volume }}ml
         </div>
