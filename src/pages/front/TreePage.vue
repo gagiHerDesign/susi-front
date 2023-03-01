@@ -50,10 +50,15 @@ const filterTree = () => {
 </script>
 
 <style lang="scss">
-@import '../../css/product.scss';
+// @import '../../css/product.scss';
+#frontTree{
 
-.bg {
-  background: #F6F1EB;
-  padding-top: -10rem;
+  .bg {
+    background: #F6F1EB;
+    padding-top: -10rem;
+  }
+  .container{
+    width: 80%;
+  }
 }
 </style>
